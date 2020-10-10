@@ -12,13 +12,15 @@ Date: 10/08/2020
 
 ## File Dictionary
 
-• <b>datathon.py:</b> Python code file for data preprocessing, model implementation, and model testing
+• <b>ACTL2131 Assignment Code.R</b>:</b> R code used for analysis - segmented by question number
 
-• <b>combined_time_series.csv:</b> A dataset containing all given time-series data merged together
+• <b>ACTL2131 Report.pdf:</b> Report on findings from using the R code
 
-• <b>Correlation bar chat.png:</b> Correlation between predictors and the response (future number of cases)
+• <b>Pennsylvania.csv:</b> Unemployment Insurance dataset for Pennsylvania (csv file)
 
-• <b>Correlation heatmap.png:</b> Correlation between all predictors used in the model
+• <b>Pennsylvania.xlsx:</b> Unemployment Insurance dataset for Pennsylvania (excel file)
+
+• <b>Assignment Brief.pdf:</b> PDF on the assessment task
 
 ## Motivation 
 
