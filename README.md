@@ -16,9 +16,13 @@ Requirements summary:
 
 <b>
   • Summary statistics and graphical analysis on all 7 variables
+  
   • Normality test on some log-transformed variables
+  
   • Hypothesis testing on the mean of certain distributions
+  
   • Simple Linear Regression model
+  
   • Multiple Linear Regression model
 </b>
   
