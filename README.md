@@ -13,6 +13,7 @@ Date: 10/08/2020
 # Motivation 
 
 Requirements summary:
+
 <b>
   • Summary statistics and graphical analysis on all 7 variables
   
