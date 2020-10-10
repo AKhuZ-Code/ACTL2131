@@ -6,11 +6,21 @@ Description: Repository for Jason Khu's ACTL2131 Assignment (2020 T2)
 
 Date: 10/08/2020
 
-# Built with...
+## Built with...
 
 • R (ggplot2)
 
-# Motivation 
+## File Dictionary
+
+• <b>datathon.py:</b> Python code file for data preprocessing, model implementation, and model testing
+
+• <b>combined_time_series.csv:</b> A dataset containing all given time-series data merged together
+
+• <b>Correlation bar chat.png:</b> Correlation between predictors and the response (future number of cases)
+
+• <b>Correlation heatmap.png:</b> Correlation between all predictors used in the model
+
+## Motivation 
 
 Requirements summary:
 
@@ -24,11 +34,11 @@ Requirements summary:
 
 <b> • Multiple Linear Regression model </b>
   
-# Summary of Code
+## Summary of Code
   
   • All visualisations and regression models are created using R - normality testing and hypothesis testing were done by inspection of visualisations and by-hand calculations respectively
   
-# Summary of Results
+## Summary of Results
   
 (from the report)
 
