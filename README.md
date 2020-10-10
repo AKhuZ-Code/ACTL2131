@@ -14,18 +14,15 @@ Date: 10/08/2020
 
 Requirements summary:
 
-<b>
-  • Summary statistics and graphical analysis on all 7 variables
-  
-  • Normality test on some log-transformed variables
-  
-  • Hypothesis testing on the mean of certain distributions
-  
-  • Simple Linear Regression model
-  
-  • Multiple Linear Regression model
-  
-</b>
+<b> • Summary statistics and graphical analysis on all 7 variables </b>
+
+<b> • Normality test on some log-transformed variables </b>
+
+<b> • Hypothesis testing on the mean of certain distributions </b>
+
+<b> • Simple Linear Regression model </b>
+
+<b> • Multiple Linear Regression model </b>
   
 # Summary of Code
   
