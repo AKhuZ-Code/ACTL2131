@@ -46,7 +46,7 @@ Requirements summary:
 
   • Adjusted R-squared of MLR > 0.9
 
-  • It is recommended that companies in the UI industry should make use of a Multiple Linear Regression model for making predictions/inferences, as our analysis shows that the model (with response being the Benefits Paid) fits well with the data. Moreover, it can consider a wide range of causal factors.
+  • It is recommended that companies in the UI industry make use of a Multiple Linear Regression model for making predictions/inferences, as our analysis shows that the model (with response being the Benefits Paid) fits well with the data. Moreover, it can consider a wide range of causal factors.
   
   • It is also recommended that the model is retrained with the latest data on a regular basis to ensure optimal fit.
   
